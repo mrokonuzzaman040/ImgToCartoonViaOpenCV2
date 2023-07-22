@@ -18,30 +18,30 @@ The problem we aim to address in this project is to develop an efficient and eff
 
 Specifically, we will focus on the following key challenges:
 
--Preserving Essential Features
+- Preserving Essential Features
 
--Edge Detection and Feature Extraction
+- Edge Detection and Feature Extraction
 
--Color Quantization
+- Color Quantization
 
--Artistic Enhancement
+- Artistic Enhancement
 
--Performance Optimization
+- Performance Optimization
 
 # Contribution
--Novel Image Processing Techniques
+- Novel Image Processing Techniques
 
--OpenCV2 Integration
+- OpenCV2 Integration
 
--Preservation of Essential Features
+- Preservation of Essential Features
 
--Customizable and Adaptable System
+- Customizable and Adaptable System
 
--Artistic Enhancement and Aesthetics
+- Artistic Enhancement and Aesthetics
 
--Performance Optimization
+- Performance Optimization
 
--Application Diversity
+- Application Diversity
 
 In conclusion, our project's primary contribution is a comprehensive 
 and efficient Image to Cartoon conversion system built on OpenCV2.
@@ -52,32 +52,32 @@ The process of Image to Cartoon conversion involves several key steps, including
 
 Related Works:
 
--Automatic Cartoon Generator for Images
+- Automatic Cartoon Generator for Images
 
--Combining Edges and Color Histograms for Cartoon Characterization
+- Combining Edges and Color Histograms for Cartoon Characterization
 
--Image-to-Image Translation with Conditional Adversarial Networks
+- Image-to-Image Translation with Conditional Adversarial Networks
 
--Real-Time Image-to-Cartoon Generation with Generative Adversarial Networks
+- Real-Time Image-to-Cartoon Generation with Generative Adversarial Networks
 
 # Proposed Methodology
 By following this proposed methodology, we aim to create a user-friendly and efficient Image to Cartoon conversion system using OpenCV2
 
--Image Preprocessing
+- Image Preprocessing
 
--Edge Detection
+- Edge Detection
 
--Feature Extraction
+- Feature Extraction
 
--Feature Exaggeration
+- Feature Exaggeration
 
--Color Mapping
+- Color Mapping
 
--Finalization and Output
+- Finalization and Output
 
--User Interaction
+- User Interaction
 
--Performance Optimization
+- Performance Optimization
 
 # Implementation
 
@@ -90,80 +90,80 @@ Additionally, to achieve more sophisticated results, consider exploring other ed
 
 To assess the effectiveness and performance of the Image to Cartoon conversion using OpenCV2, we conducted a comprehensive evaluation on a diverse set of test images.
 
--Visual Quality
+- Visual Quality
 
--Feature Preservation
+- Feature Preservation
 
--Customizability
+- Customizability
 
--Speed and Performance
+- Speed and Performance
 
--Subject Diversity
+- Subject Diversity
 
 - Comparison with Existing Methods
 
--User Feedback
+- User Feedback
 
 # Limitations
 
 Despite its effectiveness and versatility, the proposed Image to Cartoon conversion methodology using OpenCV2 has certain limitations that should be considered:
 
--Loss of Fine Details
+- Loss of Fine Details
 
--Limited Realism
+- Limited Realism
 
--Color Inconsistencies
+- Color Inconsistencies
 
--Subject Dependency
+- Subject Dependency
 
--Computational Intensity
+- Computational Intensity
 
--User Adjustments Required
+- User Adjustments Required
 
--Generalization Across Styles
+- Generalization Across Styles
 
 # Conclusions
 
--In conclusion, the proposed methodology for Image to Cartoon conversion using OpenCV2 offers a systematic and effective approach to transform ordinary photographs into engaging cartoon-style representations.
+- In conclusion, the proposed methodology for Image to Cartoon conversion using OpenCV2 offers a systematic and effective approach to transform ordinary photographs into engaging cartoon-style representations.
 
--Artistic enhancement techniques, such as simulated brush strokes and texture additions, elevate the cartoonized image's visual appeal, giving it an artistic hand-drawn quality.
+- Artistic enhancement techniques, such as simulated brush strokes and texture additions, elevate the cartoonized image's visual appeal, giving it an artistic hand-drawn quality.
 
--Its versatility and applications span various domains, making it a valuable tool for creative expression and visual content production.
+- Its versatility and applications span various domains, making it a valuable tool for creative expression and visual content production.
 
 # Future Works
 To further improve the system and expand its capabilities, the following areas could be explored as part of future works:
 
--Improved Fine Detail Preservation
+- Improved Fine Detail Preservation
 
--Style Transfer and Artistic Filters
+- Style Transfer and Artistic Filters
 
--Deep Learning-based Approaches
+- Deep Learning-based Approaches
 
--Interactive User Interfaces
+- Interactive User Interfaces
 
--Image Restoration and Enhancement
+- Image Restoration and Enhancement
 
--Multi-Style Cartoonization:
+- Multi-Style Cartoonization:
 
--Parallel Processing and GPU Acceleration
+- Parallel Processing and GPU Acceleration
 
--Cloud-based Solutions
+- Cloud-based Solutions
 
 # References
 
--Li, Y., Zhang, C., & Shen, X. (2010). Automatic Cartoon Generator for Images. ACM Transactions on Graphics (TOG), 29(6), 135.
+- Li, Y., Zhang, C., & Shen, X. (2010). Automatic Cartoon Generator for Images. ACM Transactions on Graphics (TOG), 29(6), 135.
 
--Girgis, R. W., Oliva, A., & Schyns, P. G. (2016). Combining Edges and Color Histograms for Cartoon Characterization. ACM Transactions on Applied Perception (TAP), 13(4), 23.
+- Girgis, R. W., Oliva, A., & Schyns, P. G. (2016). Combining Edges and Color Histograms for Cartoon Characterization. ACM Transactions on Applied Perception (TAP), 13(4), 23.
 
--Chen, Y., Shi, F., Wu, J., & Xiong, Z. (2018). CartoonGAN: Generative Adversarial Networks for Photo Cartoonization. arXiv preprint arXiv:1808.07686.
+- Chen, Y., Shi, F., Wu, J., & Xiong, Z. (2018). CartoonGAN: Generative Adversarial Networks for Photo Cartoonization. arXiv preprint arXiv:1808.07686.
 
--Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017). Image-to-Image Translation with Conditional Adversarial Networks. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 1125-1134.
+- Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017). Image-to-Image Translation with Conditional Adversarial Networks. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 1125-1134.
 
--Qian, X., Yang, Y., Jia, W., & Chen, K. (2019). Real-Time Image-to-Cartoon Generation with Generative Adversarial Networks. arXiv preprint arXiv:1906.11843.
+- Qian, X., Yang, Y., Jia, W., & Chen, K. (2019). Real-Time Image-to-Cartoon Generation with Generative Adversarial Networks. arXiv preprint arXiv:1906.11843.
 
--Bradski, G., & Kaehler, A. (2008). Learning OpenCV: Computer Vision with the OpenCV Library. O'Reilly Media.
+- Bradski, G., & Kaehler, A. (2008). Learning OpenCV: Computer Vision with the OpenCV Library. O'Reilly Media.
 
--Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools.
+- Bradski, G. (2000). The OpenCV Library. Dr. Dobb's Journal of Software Tools.
 
 
 **Features**:
